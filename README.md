@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msajidraza
 - 👀 I’m interested in building world class business application like ERPs
-- 🌱 I’m currently learning Angular and AWS
+- 🌱 I’m a MERN fullstack Developer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... emailid: meet2sajid@gmail.com and contact no:08604574847
 
